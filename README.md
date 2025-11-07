@@ -17,10 +17,9 @@
 ---
 
 ## 🧭 Sobre mí
-- 🎓 Tengo **17 años** y estudio en la **Escuela Técnica N°14 de González Catán**, especialidad **Programación**.  
-- 💡 Me apasiona la tecnología, la electrónica y aprender cómo funcionan las cosas desde adentro.  
-- 💻 Mi objetivo es dominar **PHP + MySQL + JavaScript** para enfocarme en el **backend**.  
-- ⚙️ Ya aprendí **HTML** y me gusta aplicar lo que aprendo en proyectos reales.  
+- 🎓 Tengo **17 años** y estudio en una **Escuela Técnica**, especialidad **Programación**.   
+- 💻 Mi objetivo es entender **PHP + MySQL + JavaScript** para enfocarme en el **backend**.  
+- ⚙️ Ya aprendí **HTML** y **CSS**, me gusta aplicar lo que aprendo en proyectos reales.  
 
 ---
 
