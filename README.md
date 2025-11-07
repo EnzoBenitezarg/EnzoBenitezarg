@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,vscode,git,github&perline=6" />
 </p>
 
-> 🧠 En progreso: POO en PHP, manejo de bases de datos relacionales, y conexión frontend-backend con JS.
+> 🧠 En progreso: PHP, manejo de bases de datos relacionales, y conexión frontend-backend.
 
 ---
 
