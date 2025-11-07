@@ -55,7 +55,3 @@
 💬 **Discord:** `spikd`
 
 ---
-
-<p align="center">
-  <i>“Aprendo haciendo. Cada error me enseña algo nuevo.”</i> 💪
-</p>
