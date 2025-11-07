@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Banner de Enzo Benítez">
+</p>
 
-<!--
-**EnzoBenitezarg/EnzoBenitezarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 ¡Hola! Soy Enzo Benítez — Estudiante técnico en programación 🇦🇷</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/enzo_benitezz_08" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-enzo__benitezz__08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-spikd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="mailto:enzoyaelbenitez16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-enzoyaelbenitez16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Sobre mí
+- 🎓 Tengo **17 años** y estudio en la **Escuela Técnica N°14 de González Catán**, especialidad **Programación**.  
+- 💡 Me apasiona la tecnología, la electrónica y aprender cómo funcionan las cosas desde adentro.  
+- 💻 Mi objetivo es dominar **PHP + MySQL + JavaScript** para enfocarme en el **backend**.  
+- ⚙️ Ya aprendí **HTML** y me gusta aplicar lo que aprendo en proyectos reales.  
+
+---
+
+## 💻 Tecnologías que manejo / estoy aprendiendo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,vscode,git,github&perline=6" />
+</p>
+
+> 🧠 En progreso: POO en PHP, manejo de bases de datos relacionales, y conexión frontend-backend con JS.
+
+---
+
+## 🚀 Proyectos destacados
+| Proyecto | Descripción | Estado |
+|-----------|--------------|---------|
+| 🍱 **Sistema de Entrega Alimentaria** | Sistema usado en mi escuela para registrar y gestionar entregas de alimentos (PHP + MySQL). | 🔧 En desarrollo |
+| 🔤 **Pasapalabras con login** | Juego educativo con sistema de usuarios y puntuaciones (JS + PHP + MySQL). | ✅ Terminado |
+| ⚙️ **Scripts útiles** | Pequeños programas y automatizaciones para práctica y optimización del sistema. | 🧩 En pruebas |
+
+---
+
+## 📘 Actualmente aprendiendo
+- PHP (formularios, sesiones, POO básica)  
+- MySQL (consultas, relaciones, diseño de base de datos)  
+- JavaScript (DOM, funciones, interactividad)  
+- Uso de **XAMPP** y **VS Code** como entorno de desarrollo local  
+
+---
+
+## 📫 Contacto
+📧 **enzoyaelbenitez16@gmail.com**  
+📸 [**Instagram: @enzo_benitezz_08**](https://instagram.com/enzo_benitezz_08)  
+💬 **Discord:** `spikd`
+
+---
+
+<p align="center">
+  <i>“Aprendo haciendo. Cada error me enseña algo nuevo.”</i> 💪
+</p>
