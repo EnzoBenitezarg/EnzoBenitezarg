@@ -49,6 +49,17 @@
 
 ---
 
+## 📊 Mis estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoBenitez&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoBenitez&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBenitez&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
 ## 📫 Contacto
 📧 **enzoyaelbenitez16@gmail.com**  
 📸 [**Instagram: @enzo_benitezz_08**](https://instagram.com/enzo_benitezz_08)  
